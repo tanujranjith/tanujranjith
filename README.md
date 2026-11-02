@@ -14,7 +14,7 @@ I like taking projects beyond the proof-of-concept stage: defining the architect
 
 Currently, I'm:
 
-* Building **[Sutra](https://github.com/tanujranjith/Sutra)**, a private, local-first workspace for students.
+* Building **[Sutra]([https://github.com/tanujranjith/Sutra](https://tanujranjith.github.io/Sutra/HomePage.html))**, a private, local-first workspace for students.
 * Developing **[Sutra Browser](https://github.com/tanujranjith/Sutra-Browser)**, a Windows-native productivity browser.
 * Exploring native Windows + AI interfaces through **[Sutra Island](https://github.com/tanujranjith/Sutra-Island)**.
 * Building AI smart glasses inspired by the interaction model of **Meta Ray-Bans**.
